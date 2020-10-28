@@ -7,6 +7,6 @@ The goal of this project is to create a chess bot to Xboard program without usin
 Project will be coded in Java. Documentation is in MarkDown. 
 
 # viikkoraportit
-[link](/week1.md) #lolmao
+[link](/documentation/week1.md) #lolmao
 
 
