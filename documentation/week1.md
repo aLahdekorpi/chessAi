@@ -5,3 +5,4 @@
 - issues enabled
 - labtool registered
 - junit testing revision
+- hours passed : 5
